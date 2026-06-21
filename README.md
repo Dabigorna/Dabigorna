@@ -2,7 +2,7 @@
 
 # Dabigorna
 
-Desenvolvimento • Linux • Cibersegurança
+**Software Development • Linux • Cybersecurity**
 
 <br>
 
@@ -18,14 +18,15 @@ Desenvolvimento • Linux • Cibersegurança
 
 ---
 
-### Sobre
+## About
 
-Atualmente estudando programação, Linux e fundamentos de cibersegurança.
+I'm a student interested in software development, Linux, and cybersecurity.
+Currently learning by building projects, exploring systems, and improving my programming skills.
 
-### Interesses
+## Interests
 
 * Python
 * Linux
-* Segurança da Informação
-* Desenvolvimento de Ferramentas
+* Cybersecurity
 * Open Source
+* Tool Development
