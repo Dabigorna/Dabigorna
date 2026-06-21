@@ -30,3 +30,35 @@ Currently learning by building projects, exploring systems, and improving my pro
 * Cybersecurity
 * Open Source
 * Tool Development
+<div align="center">
+
+# Dabigorna
+
+**Software Development • Linux • Cybersecurity**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp,cs,bash,linux,mysql,git,github,vscode" />
+
+<br><br>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=dabigorna&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabigorna&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## About
+
+I'm a student interested in software development, Linux, and cybersecurity.
+Currently learning by building projects, exploring systems, and improving my programming skills.
+
+## Interests
+
+* Python
+* Linux
+* Cybersecurity
+* Open Source
+* Tool Development
